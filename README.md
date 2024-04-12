@@ -9,6 +9,7 @@ pip install -r Requirements.txt
 
 python3 main.py
 
+# Modules
 
 The application has the following modules:
 
