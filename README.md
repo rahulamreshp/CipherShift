@@ -3,7 +3,7 @@
 
 This Python script demonstrates the Caesar Cipher, a fundamental encryption and decryption method. The encryption and decryption algorithm works by shifting each letter with the number of positions (key) provided up or down the alphabet.
 
-#Usage
+# Usage
 
 pip install -r Requirements.txt
 
